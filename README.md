@@ -19,3 +19,4 @@
 #### Estudando no momento:
 
 ![AWS](https://img.icons8.com/?size=100&id=33039&format=png&color=000000)&nbsp;
+![IA](https://img.icons8.com/?size=100&id=97384&format=png&color=000000)&nbsp;
