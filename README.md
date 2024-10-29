@@ -14,3 +14,8 @@
 ![C#](https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000)&nbsp;
 ![Spring](https://img.icons8.com/?size=100&id=90519&format=png&color=000000)&nbsp;
 ![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)&nbsp;
+![Kafka](https://img.icons8.com/?size=100&id=fOhLNqGJsUbJ&format=png&color=000000)&nbsp;
+
+#### Estudando no momento:
+
+![AWS](https://img.icons8.com/?size=100&id=33039&format=png&color=000000)&nbsp;
