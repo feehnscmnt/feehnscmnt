@@ -10,4 +10,4 @@
 
 #### Principais:
 
-![Java]([https://logos-world.net/wp-content/uploads/2022/07/Java-Logo-700x394.png](https://img.icons8.com/?size=100&id=lTKW3iI3wIT0&format=png&color=000000))&nbsp;
+![Java](https://img.icons8.com/?size=100&id=lTKW3iI3wIT0&format=png&color=000000)&nbsp;
