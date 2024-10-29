@@ -20,3 +20,9 @@
 
 ![AWS](https://img.icons8.com/?size=100&id=33039&format=png&color=000000)&nbsp;
 ![IA](https://img.icons8.com/?size=100&id=97384&format=png&color=000000)&nbsp;
+
+#### Databases:
+
+![Oracle](https://img.icons8.com/?size=100&id=39913&format=png&color=000000)&nbsp;
+![SQLServer](https://img.icons8.com/?size=100&id=13406&format=png&color=000000)&nbsp;
+![MongoDB](https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000)&nbsp;
