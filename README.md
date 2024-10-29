@@ -1,10 +1,10 @@
 # Olá, ​seja muito bem-vindo(a)! ✌️​😁
 
-## Espero que encontre algo que possa te ajudar bastante em meus repositórios! 👊​😉​
+### Espero que encontre algo que possa te ajudar bastante em meus repositórios! 👊​😉​
 
-## Se você for um(a) profissional em busca de talentos, meus projetos podem servir como base para avaliações. 🧑‍💻​
+### Se você for um(a) profissional em busca de talentos, meus projetos podem servir como base para avaliações. 🧑‍💻​
 
-## Sou Dev desde 2019 e desde então venho me aperfeiçoando, praticando e obtendo novas experiências com tecnologia. É uma paixão indescritível!
+### Sou Dev desde 2019 e desde então venho me aperfeiçoando, praticando e obtendo novas experiências com tecnologia. É uma paixão indescritível!
 
 ## Habilidades
 
