@@ -16,6 +16,8 @@
 ![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)&nbsp;
 ![Kafka](https://img.icons8.com/?size=100&id=fOhLNqGJsUbJ&format=png&color=000000)&nbsp;
 
+<img src="https://img.freepik.com/free-photo/cyber-security-expert-working-with-technology-neon-lights_23-2151645607.jpg" min-width="400px" max-width="400px" width="400px" align="right">
+
 #### Estudando no momento:
 
 ![AWS](https://img.icons8.com/?size=100&id=33039&format=png&color=000000)&nbsp;
