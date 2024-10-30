@@ -4,7 +4,7 @@
 
 ### Se você for um(a) profissional em busca de talentos, meus projetos podem servir de base para avaliações. 🧑‍💻​
 
-### Me tornei Dev em 2019 e desde então venho me aperfeiçoando, praticando e obtendo novas experiências com tecnologia. É uma paixão indescritível!
+### Me tornei Desenvolvedor em 2019 e desde então venho me aperfeiçoando, praticando e obtendo novas experiências com tecnologia. É uma paixão indescritível!
 
 ## Habilidades
 
