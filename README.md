@@ -26,3 +26,12 @@
 ![Oracle](https://img.icons8.com/?size=100&id=39913&format=png&color=000000)&nbsp;
 ![SQLServer](https://img.icons8.com/?size=100&id=13406&format=png&color=000000)&nbsp;
 ![MongoDB](https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000)&nbsp;
+
+#### Redes Socias:
+
+<div>
+</a>
+  <a href="mailto:felipenascimento411@gmail.com"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/feehnscmnt/"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" target="_blank"></a>
+  <a href="https://www.instagram.com/feehnscmnt/"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" target="_blank"></a>
+</div>
