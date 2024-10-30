@@ -4,7 +4,7 @@
 
 ### Se você for um(a) profissional em busca de talentos, meus projetos podem servir de base para avaliações. 🧑‍💻​
 
-### Sou Dev desde 2019 e desde então venho me aperfeiçoando, praticando e obtendo novas experiências com tecnologia. É uma paixão indescritível!
+### Me tornei Dev em 2019 e desde então venho me aperfeiçoando, praticando e obtendo novas experiências com tecnologia. É uma paixão indescritível!
 
 ## Habilidades
 
@@ -32,7 +32,6 @@
 #### Redes Socias:
 
 <div>
-</a>
   <a href="mailto:felipenascimento411@gmail.com"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" target="_blank"></a>
   <a href="https://www.linkedin.com/in/feehnscmnt/"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" target="_blank"></a>
   <a href="https://www.instagram.com/feehnscmnt/"><img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" target="_blank"></a>
