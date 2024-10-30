@@ -37,8 +37,8 @@
 #### Redes Socias:
 
 <div>
-  <a href="mailto:felipenascimento411@gmail.com"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" target="_blank"></a>
-  <a href="mailto:felipenascimento26@outlook.com"><img src="https://img.icons8.com/?size=100&id=ut6gQeo5pNqf&format=png&color=000000" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/feehnscmnt/"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" target="_blank"></a>
-  <a href="https://www.instagram.com/feehnscmnt/"><img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" target="_blank"></a>
+  <a href="mailto:felipenascimento411@gmail.com"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" title="Gmail" target="_blank"></a>
+  <a href="mailto:felipenascimento26@outlook.com"><img src="https://img.icons8.com/?size=100&id=ut6gQeo5pNqf&format=png&color=000000" title="Outlook" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/feehnscmnt/"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" title="LinkedIn" target="_blank"></a>
+  <a href="https://www.instagram.com/feehnscmnt/"><img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" title="Instagram" target="_blank"></a>
 </div>
