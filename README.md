@@ -21,7 +21,7 @@
 #### Já tive contato no trabalho:
 
 ![Angular](https://img.icons8.com/?size=100&id=l9a5tcSnBwcf&format=png&color=000000)&nbsp;
-![Primefaces](https://www.primefaces.org/wp-content/uploads/2018/05/primetek_logo.png)&nbsp;
+![Primefaces](https://www.primefaces.org/showcase/javax.faces.resource/images/primefaces-logo.svg.xhtml?ln=showcase)&nbsp;
 
 #### Estudando no momento:
 
