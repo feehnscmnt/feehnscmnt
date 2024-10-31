@@ -16,14 +16,14 @@
 ![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)&nbsp;
 ![Kafka](https://img.icons8.com/?size=100&id=fOhLNqGJsUbJ&format=png&color=000000)&nbsp;
 
+<img src="https://img.freepik.com/premium-photo/laptop-cup-coffee-are-table-with-blue-background_337384-159390.jpg" min-width="400px" max-width="400px" width="400px" align="right">
+
 #### Tive/Tenho Conhecimento:
 
 ![Angular](https://img.icons8.com/?size=100&id=l9a5tcSnBwcf&format=png&color=000000)&nbsp;
 ![Tomcat](https://img.icons8.com/?size=100&id=QFcVqyh6lBh6&format=png&color=000000)&nbsp;
 ![JS](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)&nbsp;
 ![Primefaces](https://www.primefaces.org/showcase/javax.faces.resource/images/primefaces-logo.svg.xhtml?ln=showcase)&nbsp;
-
-<img src="https://img.freepik.com/premium-photo/laptop-cup-coffee-are-table-with-blue-background_337384-159390.jpg" min-width="400px" max-width="400px" width="400px" align="right" style="border: 0">
 
 #### Estudando no momento:
 
