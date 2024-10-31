@@ -31,6 +31,8 @@
 ![AWS](https://img.icons8.com/?size=100&id=33039&format=png&color=000000)&nbsp;
 ![IA](https://img.icons8.com/?size=100&id=97384&format=png&color=000000)&nbsp;
 
+<img src="https://img.freepik.com/premium-photo/web-dev-design-3d-vector-illustration-laptop-phone-coding-tools_1178440-14934.jpg" min-width="400px" max-width="400px" width="400px" align="right">
+
 #### Databases:
 
 ![Oracle](https://img.icons8.com/?size=100&id=39913&format=png&color=000000)&nbsp;
