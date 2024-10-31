@@ -23,7 +23,7 @@
 ![JS](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)&nbsp;
 ![Primefaces](https://www.primefaces.org/showcase/javax.faces.resource/images/primefaces-logo.svg.xhtml?ln=showcase)&nbsp;
 
-<img src="https://img.freepik.com/premium-photo/laptop-cup-coffee-are-table-with-blue-background_337384-159390.jpg" min-width="400px" max-width="400px" width="400px" align="right" style="border: none">
+<img src="https://img.freepik.com/premium-photo/laptop-cup-coffee-are-table-with-blue-background_337384-159390.jpg" min-width="400px" max-width="400px" width="500px" align="right" style="border: none">
 
 #### Estudando no momento:
 
