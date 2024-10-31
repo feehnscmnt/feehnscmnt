@@ -16,7 +16,7 @@
 ![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)&nbsp;
 ![Kafka](https://img.icons8.com/?size=100&id=fOhLNqGJsUbJ&format=png&color=000000)&nbsp;
 
-<img src="https://img.freepik.com/premium-photo/web-dev-design-3d-vector-illustration-laptop-phone-coding-tools_1178440-14934.jpg" min-width="350px" max-width="350px" width="350px" align="right">
+<img src="https://img.freepik.com/premium-photo/web-dev-design-3d-vector-illustration-laptop-phone-coding-tools_1178440-14934.jpg" min-width="300px" max-width="300px" width="300px" align="right">
 
 #### Tive/Tenho Conhecimento:
 
@@ -31,7 +31,7 @@
 ![AWS](https://img.icons8.com/?size=100&id=33039&format=png&color=000000)&nbsp;
 ![IA](https://img.icons8.com/?size=100&id=97384&format=png&color=000000)&nbsp;
 
-<img src="https://img.freepik.com/premium-photo/laptop-cup-coffee-are-table-with-blue-background_337384-159390.jpg" min-width="350px" max-width="350px" width="350px" align="right">
+<img src="https://img.freepik.com/premium-photo/laptop-cup-coffee-are-table-with-blue-background_337384-159390.jpg" min-width="300px" max-width="300px" width="300px" align="right">
 
 #### Databases:
 
