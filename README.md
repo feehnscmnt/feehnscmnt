@@ -18,9 +18,10 @@
 
 <img src="https://img.freepik.com/free-photo/cyber-security-expert-working-with-technology-neon-lights_23-2151645607.jpg" min-width="300px" max-width="300px" width="300px" align="right">
 
-#### Já tive contato no trabalho:
+#### Tive/Tenho Conhecimento:
 
 ![Angular](https://img.icons8.com/?size=100&id=l9a5tcSnBwcf&format=png&color=000000)&nbsp;
+![Tomcat](https://img.icons8.com/?size=100&id=QFcVqyh6lBh6&format=png&color=000000)&nbsp;
 ![Primefaces](https://www.primefaces.org/showcase/javax.faces.resource/images/primefaces-logo.svg.xhtml?ln=showcase)&nbsp;
 
 #### Estudando no momento:
