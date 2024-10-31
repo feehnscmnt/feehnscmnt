@@ -16,7 +16,7 @@
 ![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)&nbsp;
 ![Kafka](https://img.icons8.com/?size=100&id=fOhLNqGJsUbJ&format=png&color=000000)&nbsp;
 
-<img src="https://img.freepik.com/premium-photo/laptop-cup-coffee-are-table-with-blue-background_337384-159390.jpg" min-width="500px" max-width="500px" width="500px" align="right">
+<img src="https://img.freepik.com/premium-photo/laptop-cup-coffee-are-table-with-blue-background_337384-159390.jpg" min-width="400px" max-width="400px" width="400px" align="right">
 
 #### Tive/Tenho Conhecimento:
 
