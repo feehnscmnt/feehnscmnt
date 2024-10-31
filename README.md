@@ -16,7 +16,7 @@
 ![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)&nbsp;
 ![Kafka](https://img.icons8.com/?size=100&id=fOhLNqGJsUbJ&format=png&color=000000)&nbsp;
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPlyXS8IDSrCkfDCLVshSxpr1zeAwTdPE-FIjsrsKHBEciDb-2P3anoZpxdAW0Ci3mtCE&usqp=CAU" min-width="500px" max-width="500px" width="500px" align="right" border="none">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPlyXS8IDSrCkfDCLVshSxpr1zeAwTdPE-FIjsrsKHBEciDb-2P3anoZpxdAW0Ci3mtCE&usqp=CAU" min-width="500px" max-width="500px" width="500px" align="right" border="0">
 
 #### Tive/Tenho Conhecimento:
 
