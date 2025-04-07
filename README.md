@@ -6,6 +6,14 @@
 
 ### Me tornei Desenvolvedor em 2019 e desde então venho me aperfeiçoando, praticando e obtendo novas experiências com tecnologia. É uma paixão indescritível!
 
+# Hello, welcome! ✌️​😁
+
+### I hope you find something that can help you a lot in my repositories! 👊​😉​
+
+### If you are a professional looking for talent, my projects can serve as a basis for evaluations. 🧑‍💻​
+
+### I became a Developer in 2019 and since then I have been improving, practicing and gaining new experiences with technology. It is an indescribable passion!
+
 ## Stats
 
 <div align="center">  
