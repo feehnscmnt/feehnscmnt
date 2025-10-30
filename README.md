@@ -39,6 +39,7 @@
 ![Tomcat](https://img.icons8.com/?size=100&id=QFcVqyh6lBh6&format=png&color=000000)&nbsp;
 ![JS](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)&nbsp;
 ![Primefaces](https://showcase.primefaces.org/jakarta.faces.resource/images/primefaces-logo.svg.xhtml?ln=showcase)&nbsp;
+![WebSphere](https://arquivo.devmedia.com.br/artigos/Diogo_De_Souza_Castro/Servidores_Websphere/Servidores_Websphere1.jpg)&nbsp;
 
 #### Estudando no momento:
 
