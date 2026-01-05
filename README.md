@@ -18,7 +18,7 @@
 
 <div align="center">  
   <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=feehnscmnt&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&hide=issues&hide_rank=false" alt="Felipe Nascimento Github Stats"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
+  <img width="41%" height="195px" src="https://github-stats-alpha.vercel.app/api?username=feehnscmnt"/>
 </div>
 
 ## Habilidades
