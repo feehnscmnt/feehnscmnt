@@ -1,64 +1,55 @@
-# Olá, ​seja muito bem-vindo(a)! ✌️​😁
+# Olá! / Welcome! 👋
 
-### Espero que encontre algo que possa te ajudar bastante em meus repositórios! 👊​😉​
+**Software Developer**
 
-### Se você for um(a) profissional em busca de talentos, meus projetos podem servir de base para avaliações. 🧑‍💻​
+---
 
-### Me tornei Desenvolvedor em 2019 e desde então venho me aperfeiçoando, praticando e obtendo novas experiências com tecnologia. É uma paixão indescritível!
+### 👨‍💻 Sobre mim / About me
 
-# Hello, welcome! ✌️​😁
+**PT-BR:** Me tornei Desenvolvedor em 2019 e, desde então, venho me aperfeiçoando, praticando e obtendo novas experiências com tecnologia. É uma paixão indescritível! Se você for um(a) profissional em busca de talentos, espero que meus projetos possam servir de base para suas avaliações. Seja bem-vindo(a) aos meus repositórios!
 
-### I hope you find something that can help you a lot in my repositories! 👊​😉​
+**EN:** I became a Developer in 2019 and since then I have been improving, practicing, and gaining new experiences with technology. It is an indescribable passion! If you are a professional looking for talent, my projects can serve as a basis for your evaluations. Welcome to my repositories!
 
-### If you are a professional looking for talent, my projects can serve as a basis for evaluations. 🧑‍💻​
+---
 
-### I became a Developer in 2019 and since then I have been improving, practicing and gaining new experiences with technology. It is an indescribable passion!
+### 🛠️ Tecnologias e Ferramentas / Skills
 
-## Stats
+#### 🔹 Principais / Core
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+#### 🔹 Conhecimentos Adicionais / Additional Knowledge
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+![IBM](https://img.shields.io/badge/IBM%20WebSphere-052FAD.svg?style=for-the-badge&logo=ibm&logoColor=white)
+
+#### 🔹 Estudando Atualmente / Currently Studying
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-005571.svg?style=for-the-badge&logo=icloud&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF4F8B.svg?style=for-the-badge&logo=openai&logoColor=white)
+
+#### 🔹 Bancos de Dados / Databases
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">  
-  <img width="41%" height="195px" src="https://github-stats-alpha.vercel.app/api?username=feehnscmnt"/>
+  <img width="50%" src="https://github-stats-alpha.vercel.app/api?username=feehnscmnt&theme=transparent&hide_border=true"/>
 </div>
 
-## Habilidades
+---
 
-#### Principais:
+### 📫 Contato / Contact
 
-![Java](https://img.icons8.com/?size=100&id=lTKW3iI3wIT0&format=png&color=000000)&nbsp;
-![C#](https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000)&nbsp;
-![Spring](https://img.icons8.com/?size=100&id=90519&format=png&color=000000)&nbsp;
-![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)&nbsp;
-![Kafka](https://img.icons8.com/?size=100&id=fOhLNqGJsUbJ&format=png&color=000000)&nbsp;
-
-<img src="https://img.freepik.com/premium-photo/web-dev-design-3d-vector-illustration-laptop-phone-coding-tools_1178440-14934.jpg" min-width="300px" max-width="300px" width="300px" align="right">
-
-#### Tive/Tenho Conhecimento:
-
-![Angular](https://img.icons8.com/?size=100&id=l9a5tcSnBwcf&format=png&color=000000)&nbsp;
-![Tomcat](https://img.icons8.com/?size=100&id=QFcVqyh6lBh6&format=png&color=000000)&nbsp;
-![JS](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)&nbsp;
-![Primefaces](https://showcase.primefaces.org/jakarta.faces.resource/images/primefaces-logo.svg.xhtml?ln=showcase)&nbsp;
-![WebSphere](https://arquivo.devmedia.com.br/artigos/Diogo_De_Souza_Castro/Servidores_Websphere/Servidores_Websphere1.jpg)&nbsp;
-
-#### Estudando no momento:
-
-![Cloud](https://img.icons8.com/?size=100&id=swdw0vekxi8h&format=png&color=000000)&nbsp;
-![AWS](https://img.icons8.com/?size=100&id=33039&format=png&color=000000)&nbsp;
-![IA](https://img.icons8.com/?size=100&id=97384&format=png&color=000000)&nbsp;
-
-<img src="https://img.freepik.com/premium-photo/laptop-cup-coffee-are-table-with-blue-background_337384-159390.jpg" min-width="300px" max-width="300px" width="300px" align="right">
-
-#### Databases:
-
-![Oracle](https://img.icons8.com/?size=100&id=39913&format=png&color=000000)&nbsp;
-![SQLServer](https://img.icons8.com/?size=100&id=13406&format=png&color=000000)&nbsp;
-![MongoDB](https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000)&nbsp;
-
-#### Redes Socias:
-
-<div>
-  <a href="mailto:felipenascimento411@gmail.com"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" title="Gmail" target="_blank"></a>
-  <a href="mailto:felipenascimento26@outlook.com"><img src="https://img.icons8.com/?size=100&id=ut6gQeo5pNqf&format=png&color=000000" title="Outlook" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/feehnscmnt/"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" title="LinkedIn" target="_blank"></a>
-  <a href="https://www.instagram.com/feehnscmnt/"><img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" title="Instagram" target="_blank"></a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feehnscmnt/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipenascimento411@gmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:felipenascimento26@outlook.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/feehnscmnt/)
